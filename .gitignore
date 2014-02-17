@@ -1,0 +1,5 @@
+Generated/
+build/
+.DS_Store
+*.xcworkspace
+chimapp/chimapp/
